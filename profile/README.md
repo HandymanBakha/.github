@@ -10,7 +10,8 @@
   <a href="https://apps.apple.com/app/id6796590581">App Store</a> ·
   <a href="https://play.google.com/store/apps/details?id=com.gethandyman.app">Google Play</a> ·
   <a href="https://www.linkedin.com/company/gethandyman/">LinkedIn</a> ·
-  <a href="https://www.trustpilot.com/review/get-handyman.com">Trustpilot</a>
+  <a href="https://www.trustpilot.com/review/get-handyman.com">Trustpilot</a> ·
+  <a href="https://www.facebook.com/profile.php?id=61593633797048">Facebook</a>
 </p>
 
 ---
