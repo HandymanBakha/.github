@@ -50,23 +50,22 @@ encrypted.
 
 Some trades are regulated, and no marketplace badge replaces a licence. Our
 [guides](https://get-handyman.com/guides/) say plainly which jobs need a
-licensed trade — a Gas Safe engineer in the UK, a DEWA-approved contractor in
-Dubai — and we would rather point you at the register than take the booking.
+licensed trade — a DEWA-approved contractor for electrical and water work in
+Dubai, a licensed contractor once a US job crosses the state's threshold — and
+we would rather point you at the register than take the booking.
 
 ## Where we work
 
-Opening market by market rather than everywhere at once — **41 cities across
-9 countries**:
+Two countries, opening city by city rather than everywhere at once —
+**30 cities**:
 
 | | |
 | --- | --- |
-| **UAE** | All seven emirates: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain |
-| **UK & Ireland** | London, Manchester, Birmingham, Leeds, Glasgow, Dublin |
+| **United Arab Emirates** | All seven emirates: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain |
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
-| **Gulf** | Doha, Riyadh, Manama, Kuwait City, Muscat |
 
-A request can be posted from anywhere. The cities above are where professionals
-are being signed up first — see [where we are hiring](https://get-handyman.com/jobs/).
+That is the whole of it. The cities above are where professionals are being
+signed up first — see [where we are hiring](https://get-handyman.com/jobs/).
 
 ## How it is built
 
@@ -75,7 +74,7 @@ are being signed up first — see [where we are hiring](https://get-handyman.com
 | **Web** | Vite multi-page application, Tailwind, served from Cloudflare Workers |
 | **Data & auth** | Supabase, with row-level security policies |
 | **Mobile** | Native iOS and Android apps; one account across web and mobile |
-| **Content** | 41 city pages and 6 guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
+| **Content** | 30 city pages, 50 price guides and 4 hiring guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
 | **Discovery** | Structured data, hreflang, a hand-maintained sitemap, IndexNow on deploy |
 | **Quality** | ~950 unit tests and a Playwright end-to-end suite; CI gates every deploy |
 
