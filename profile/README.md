@@ -50,9 +50,10 @@ encrypted.
 
 Some trades are regulated, and no marketplace badge replaces a licence. Our
 [guides](https://get-handyman.com/guides/) say plainly which jobs need a
-licensed trade — a DEWA-approved contractor for electrical and water work in
-Dubai, a licensed contractor once a US job crosses the state's threshold — and
-we would rather point you at the register than take the booking.
+licensed trade — local authority approvals for electrical and water work in
+Dubai, a licensed electrician or plumber for fixed electrical and plumbing
+work in the US — and we would rather point you at the register than take the
+booking.
 
 ## Where we work
 
@@ -65,7 +66,7 @@ Two countries, opening city by city rather than everywhere at once —
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
 
 That is the whole of it. The cities above are where professionals are being
-signed up first — see [where we are hiring](https://get-handyman.com/jobs/).
+signed up — see [where we are hiring](https://get-handyman.com/jobs/).
 
 ## How it is built
 
@@ -76,7 +77,7 @@ signed up first — see [where we are hiring](https://get-handyman.com/jobs/).
 | **Mobile** | Native iOS and Android apps; one account across web and mobile |
 | **Content** | 30 city pages, 50 price guides and 4 hiring guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
 | **Discovery** | Structured data, hreflang, a hand-maintained sitemap, IndexNow on deploy |
-| **Quality** | ~950 unit tests and a Playwright end-to-end suite; CI gates every deploy |
+| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check that runs against production; CI gates every deploy |
 
 ## Contact
 
