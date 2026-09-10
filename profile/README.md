@@ -66,9 +66,9 @@ Two countries, opening city by city rather than everywhere at once —
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
 
 A request can be posted anywhere in those two countries. The cities are where
-professionals are being signed up first, and if yours is not on the list you
-can [create a profile](https://get-handyman.com/jobs/) anyway and be matched
-with work near you.
+professionals are being signed up first, and if your city in them is not on the
+list you can [create a profile](https://get-handyman.com/jobs/) anyway and be
+matched with work near you.
 
 ## How it is built
 
