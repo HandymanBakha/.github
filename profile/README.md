@@ -48,11 +48,12 @@ platform*, so a profile cannot be padded with reviews from friends. Accounts are
 protected by row-level access rules in the database, and every connection is
 encrypted.
 
-Some trades are regulated, and no marketplace badge replaces a licence. Our
-[guides](https://get-handyman.com/guides/) say plainly which jobs need a
-licensed trade — local authority approvals for electrical and water work in
-Dubai, a licensed electrician or plumber for fixed electrical and plumbing
-work in the US — and we would rather point you at the register than take the
+Some trades are regulated, and no marketplace badge replaces a licence. In
+Dubai, anything touching a building's electrical supply, gas or structure
+needs an authority approval as well as trade competence. In New York City,
+plumbing and electrical work are licensed trades and the city enforces it.
+Our [guides](https://get-handyman.com/guides/) draw that line job by job, and
+where a job falls on the far side of it we would rather say so than take the
 booking.
 
 ## Where we work
@@ -65,8 +66,10 @@ Two countries, opening city by city rather than everywhere at once —
 | **United Arab Emirates** | All seven emirates: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain |
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
 
-That is the whole of it. The cities above are where professionals are being
-signed up — see [where we are hiring](https://get-handyman.com/jobs/).
+A request can be posted anywhere in those two countries. The cities are where
+professionals are being signed up, and if yours is not on the list you can
+[create a profile](https://get-handyman.com/jobs/) anyway and be matched with
+work near you.
 
 ## How it is built
 
