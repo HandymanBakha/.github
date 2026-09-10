@@ -79,7 +79,7 @@ matched with work near you.
 | **Mobile** | Native iOS and Android apps; one account across web and mobile |
 | **Content** | 30 city pages, 50 price guides and 4 hiring guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
 | **Discovery** | Structured data, hreflang, a hand-maintained sitemap, IndexNow on deploy |
-| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check run against production on demand; CI gates every deploy |
+| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check run against production on demand; CI runs on every push and pull request |
 
 ## Contact
 
