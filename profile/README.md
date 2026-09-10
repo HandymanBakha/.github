@@ -53,8 +53,7 @@ Dubai, anything touching a building's electrical supply, gas or structure
 needs an authority approval as well as trade competence. In New York City,
 plumbing and electrical work are licensed trades and the city enforces it.
 Our [guides](https://get-handyman.com/guides/) draw that line job by job, and
-where a job falls on the far side of it we would rather say so than take the
-booking.
+where a job falls on the far side of it we would rather say so.
 
 ## Where we work
 
@@ -67,9 +66,9 @@ Two countries, opening city by city rather than everywhere at once —
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
 
 A request can be posted anywhere in those two countries. The cities are where
-professionals are being signed up, and if yours is not on the list you can
-[create a profile](https://get-handyman.com/jobs/) anyway and be matched with
-work near you.
+professionals are being signed up first, and if yours is not on the list you
+can [create a profile](https://get-handyman.com/jobs/) anyway and be matched
+with work near you.
 
 ## How it is built
 
@@ -80,7 +79,7 @@ work near you.
 | **Mobile** | Native iOS and Android apps; one account across web and mobile |
 | **Content** | 30 city pages, 50 price guides and 4 hiring guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
 | **Discovery** | Structured data, hreflang, a hand-maintained sitemap, IndexNow on deploy |
-| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check that runs against production; CI gates every deploy |
+| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check run against production on demand; CI gates every deploy |
 
 ## Contact
 
