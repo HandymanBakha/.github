@@ -48,25 +48,27 @@ platform*, so a profile cannot be padded with reviews from friends. Accounts are
 protected by row-level access rules in the database, and every connection is
 encrypted.
 
-Some trades are regulated, and no marketplace badge replaces a licence. Our
-[guides](https://get-handyman.com/guides/) say plainly which jobs need a
-licensed trade — a Gas Safe engineer in the UK, a DEWA-approved contractor in
-Dubai — and we would rather point you at the register than take the booking.
+Some trades are regulated, and no marketplace badge replaces a licence. In
+Dubai, anything touching a building's electrical supply, gas or structure
+needs an authority approval as well as trade competence. In New York City,
+plumbing and electrical work are licensed trades and the city enforces it.
+Our [guides](https://get-handyman.com/guides/) draw that line job by job, and
+where a job falls on the far side of it we would rather say so.
 
 ## Where we work
 
-Opening market by market rather than everywhere at once — **41 cities across
-9 countries**:
+Two countries, opening city by city rather than everywhere at once —
+**30 cities**:
 
 | | |
 | --- | --- |
-| **UAE** | All seven emirates: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain |
-| **UK & Ireland** | London, Manchester, Birmingham, Leeds, Glasgow, Dublin |
+| **United Arab Emirates** | All seven emirates: Dubai, Abu Dhabi, Sharjah, Ajman, Ras Al Khaimah, Fujairah, Umm Al Quwain |
 | **United States** | 23 metros, from New York and Los Angeles to Minneapolis and Nashville |
-| **Gulf** | Doha, Riyadh, Manama, Kuwait City, Muscat |
 
-A request can be posted from anywhere. The cities above are where professionals
-are being signed up first — see [where we are hiring](https://get-handyman.com/jobs/).
+A request can be posted anywhere in those two countries. The cities are where
+professionals are being signed up first, and if your city in them is not on the
+list you can [create a profile](https://get-handyman.com/jobs/) anyway and be
+matched with work near you.
 
 ## How it is built
 
@@ -75,9 +77,9 @@ are being signed up first — see [where we are hiring](https://get-handyman.com
 | **Web** | Vite multi-page application, Tailwind, served from Cloudflare Workers |
 | **Data & auth** | Supabase, with row-level security policies |
 | **Mobile** | Native iOS and Android apps; one account across web and mobile |
-| **Content** | 41 city pages and 6 guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
+| **Content** | 30 city pages, 50 price guides and 4 hiring guides generated at build time, 11 interface languages, four of them with their own indexed URLs |
 | **Discovery** | Structured data, hreflang, a hand-maintained sitemap, IndexNow on deploy |
-| **Quality** | ~950 unit tests and a Playwright end-to-end suite; CI gates every deploy |
+| **Quality** | Over a thousand unit tests, a Playwright end-to-end suite and a smoke check run against production on demand; CI runs on every push and pull request |
 
 ## Contact
 
